@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * Description: main - Prints string to stdout.
+ * Description: main - Prints size of variables to stdout
  * Return: Always 0 (Success)
  */
 
