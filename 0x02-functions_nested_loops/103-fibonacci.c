@@ -20,3 +20,5 @@ e += d;
 d = f;
 }
 printf("%d\n", total);
+return (0);
+}
