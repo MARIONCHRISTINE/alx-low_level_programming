@@ -14,7 +14,7 @@ if (n < 0)
 {
 f = -1 * (n % 10);
 _putchar(f + '0');
-return(f);
+return (f);
 }
 else
 {
